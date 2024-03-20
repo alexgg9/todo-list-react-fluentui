@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fluentui/react": "^8.116.0",
+    "@fluentui/react-components": "^9.47.1",
+    "@fluentui/react-icons": "^2.0.232",
+    "@fluentui/react-migration-v8-v9": "^9.6.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
